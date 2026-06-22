@@ -1,3 +1,5 @@
+'use client';
+
 import { useRef } from 'react';
 import { motion, useScroll, useSpring } from 'motion/react';
 import SectionWrapper from '@/components/ui/SectionWrapper';
