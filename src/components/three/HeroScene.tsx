@@ -176,7 +176,7 @@ function FuturisticCampus() {
           />
         </mesh>
         <mesh position={[0, 1.05, 0]}>
-          <domeGeometry args={[0.4, 16, 12]} />
+          <sphereGeometry args={[0.4, 16, 12, 0, Math.PI * 2, 0, Math.PI / 2]} />
           <meshStandardMaterial color="#10B981" emissive="#10B981" emissiveIntensity={0.8} />
         </mesh>
       </group>
