@@ -1,0 +1,14 @@
+[
+  { "id": 1, "src": "/images/gallery/placeholder.jpg", "alt": "School Main Building", "category": "campus", "featured": true },
+  { "id": 2, "src": "/images/gallery/placeholder.jpg", "alt": "Annual Day Celebration", "category": "events", "featured": true },
+  { "id": 3, "src": "/images/gallery/placeholder.jpg", "alt": "Science Laboratory", "category": "campus", "featured": false },
+  { "id": 4, "src": "/images/gallery/placeholder.jpg", "alt": "Football Tournament", "category": "sports", "featured": true },
+  { "id": 5, "src": "/images/gallery/placeholder.jpg", "alt": "Cultural Program", "category": "cultural", "featured": false },
+  { "id": 6, "src": "/images/gallery/placeholder.jpg", "alt": "School Library", "category": "campus", "featured": false },
+  { "id": 7, "src": "/images/gallery/placeholder.jpg", "alt": "Sports Day", "category": "sports", "featured": false },
+  { "id": 8, "src": "/images/gallery/placeholder.jpg", "alt": "Independence Day", "category": "events", "featured": true },
+  { "id": 9, "src": "/images/gallery/placeholder.jpg", "alt": "Dance Performance", "category": "cultural", "featured": false },
+  { "id": 10, "src": "/images/gallery/placeholder.jpg", "alt": "Computer Lab", "category": "campus", "featured": false },
+  { "id": 11, "src": "/images/gallery/placeholder.jpg", "alt": "Arts Festival", "category": "cultural", "featured": true },
+  { "id": 12, "src": "/images/gallery/placeholder.jpg", "alt": "Athletics Competition", "category": "sports", "featured": false }
+]

@@ -1,0 +1,10 @@
+[
+  { "id": 1, "year": "2024", "title": "State-Level Science Exhibition Winner", "description": "Our students secured first place in the Kerala State-Level Science Exhibition with their innovative renewable energy project.", "category": "academic", "icon": "award" },
+  { "id": 2, "year": "2024", "title": "District Football Champions", "description": "SMHSS football team emerged as district champions in the inter-school football tournament.", "category": "sports", "icon": "trophy" },
+  { "id": 3, "year": "2023", "title": "100% Board Exam Results", "description": "Achieved 100% pass rate in both SSLC and Higher Secondary board examinations with multiple A+ grades.", "category": "academic", "icon": "star" },
+  { "id": 4, "year": "2023", "title": "Best NSS Unit Award", "description": "Recognized as the Best NSS Unit at the university level for outstanding community service.", "category": "service", "icon": "heart" },
+  { "id": 5, "year": "2022", "title": "National-Level Quiz Champions", "description": "Our quiz team represented Kerala at the national level and secured second position.", "category": "academic", "icon": "brain" },
+  { "id": 6, "year": "2022", "title": "Green School Certification", "description": "Received Green School certification for environmental conservation initiatives and sustainable campus practices.", "category": "environment", "icon": "leaf" },
+  { "id": 7, "year": "2021", "title": "State Arts Festival Winners", "description": "Multiple students won individual and group prizes at the Kerala State Youth Festival.", "category": "arts", "icon": "music" },
+  { "id": 8, "year": "2021", "title": "Digital Innovation Award", "description": "Recognized for pioneering digital education integration during the pandemic period.", "category": "technology", "icon": "cpu" }
+]

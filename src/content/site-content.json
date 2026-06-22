@@ -1,0 +1,131 @@
+{
+  "school": {
+    "name": "SMHSS Murickassery",
+    "fullName": "St. Mary's Higher Secondary School, Murickassery",
+    "tagline": "Shaping Future Leaders Through Excellence",
+    "established": 1965,
+    "address": "Murickassery, Idukki District, Kerala, India - 685604",
+    "phone": "+91 4868 232 XXX",
+    "email": "info@smhssmurickassery.edu.in",
+    "website": "www.smhssmurickassery.edu.in"
+  },
+  "stats": {
+    "students": 1500,
+    "teachers": 85,
+    "achievements": 200,
+    "yearsOfExcellence": 60
+  },
+  "hero": {
+    "title": "SMHSS MURICKASSERY",
+    "subtitle": "Shaping Future Leaders Through Excellence",
+    "ctaPrimary": "Explore Campus",
+    "ctaSecondary": "Admissions Open"
+  },
+  "about": {
+    "title": "About Our School",
+    "description": "St. Mary's Higher Secondary School, Murickassery, has been a beacon of academic excellence and holistic development since 1965. Nestled in the serene hills of Idukki, our institution has shaped generations of leaders, thinkers, and changemakers.",
+    "mission": "To provide quality education that nurtures intellectual curiosity, moral values, and social responsibility, empowering students to become compassionate leaders and lifelong learners.",
+    "vision": "To be a premier educational institution that inspires excellence, fosters innovation, and cultivates responsible global citizens rooted in values and tradition.",
+    "timeline": [
+      { "year": "1965", "title": "Foundation", "description": "SMHSS was established with a vision to provide quality education in the hills of Murickassery." },
+      { "year": "1980", "title": "Higher Secondary", "description": "Upgraded to Higher Secondary School, expanding academic programs and opportunities." },
+      { "year": "1995", "title": "Infrastructure Growth", "description": "Major campus expansion with new laboratories, library, and sports facilities." },
+      { "year": "2010", "title": "Digital Transformation", "description": "Introduction of smart classrooms and digital learning infrastructure." },
+      { "year": "2020", "title": "Modern Excellence", "description": "Achieved state-level recognition for academic excellence and innovative teaching methods." },
+      { "year": "2025", "title": "Future Ready", "description": "Launch of AI-integrated learning programs and international collaboration initiatives." }
+    ]
+  },
+  "principal": {
+    "name": "Dr. Elizabeth Kurian",
+    "title": "Principal",
+    "message": "Welcome to St. Mary's Higher Secondary School, Murickassery. Our institution stands as a testament to the enduring power of education in transforming lives and communities. For over six decades, we have remained committed to nurturing not just academic excellence, but the complete development of every student who walks through our doors.\n\nAt SMHSS, we believe that education extends far beyond textbooks and examinations. We strive to create an environment where curiosity is celebrated, creativity is encouraged, and character is built. Our dedicated faculty members work tirelessly to ensure that each student discovers their unique potential and is equipped with the skills needed to thrive in an ever-changing world.\n\nAs we embrace the future with open arms, we remain rooted in the values that have defined us — integrity, compassion, and the relentless pursuit of excellence. I invite you to explore our school and discover why SMHSS Murickassery is more than just a school — it is a community, a family, and a launchpad for dreams.",
+    "image": "/images/principal.png"
+  },
+  "academics": {
+    "title": "Academic Excellence",
+    "subtitle": "Comprehensive programs designed to nurture every student's potential",
+    "programs": [
+      {
+        "title": "Higher Secondary",
+        "description": "Comprehensive Plus One and Plus Two programs in Science, Commerce, and Humanities streams with experienced faculty and modern teaching methodologies.",
+        "icon": "graduation",
+        "highlights": ["Science Stream", "Commerce Stream", "Humanities Stream", "Career Guidance"]
+      },
+      {
+        "title": "High School",
+        "description": "Strong foundation from classes 8-10 with focus on conceptual learning, critical thinking, and holistic development.",
+        "icon": "school",
+        "highlights": ["State Curriculum", "Competitive Exam Prep", "Skill Development", "Value Education"]
+      },
+      {
+        "title": "Laboratories",
+        "description": "State-of-the-art Physics, Chemistry, Biology, and Computer Science laboratories equipped with modern instruments and technology.",
+        "icon": "flask",
+        "highlights": ["Physics Lab", "Chemistry Lab", "Biology Lab", "Computer Lab"]
+      },
+      {
+        "title": "Library",
+        "description": "A vast collection of over 15,000 books, digital resources, journals, and periodicals fostering a culture of reading and research.",
+        "icon": "book",
+        "highlights": ["15,000+ Books", "Digital Resources", "Reading Room", "Research Corner"]
+      },
+      {
+        "title": "Smart Classrooms",
+        "description": "Technology-enhanced learning environments with interactive whiteboards, projectors, and digital content delivery systems.",
+        "icon": "monitor",
+        "highlights": ["Interactive Boards", "Digital Content", "Audio-Visual Aids", "Online Resources"]
+      }
+    ]
+  },
+  "admissions": {
+    "title": "Admissions",
+    "subtitle": "Begin your journey with SMHSS Murickassery",
+    "steps": [
+      { "step": 1, "title": "Inquiry", "description": "Visit our campus or contact us online to learn about available programs and admission requirements." },
+      { "step": 2, "title": "Application", "description": "Submit the completed application form along with required documents and previous academic records." },
+      { "step": 3, "title": "Assessment", "description": "Students undergo an entrance assessment to evaluate their academic readiness and potential." },
+      { "step": 4, "title": "Interview", "description": "A personal interaction with the student and parents to understand goals and expectations." },
+      { "step": 5, "title": "Enrollment", "description": "Upon selection, complete the enrollment process with fee payment and document submission." }
+    ],
+    "faqs": [
+      { "question": "What is the admission process?", "answer": "The admission process includes submitting an application form, entrance assessment, personal interview, and enrollment upon selection." },
+      { "question": "What documents are required?", "answer": "Previous school leaving certificate, mark sheets, transfer certificate, birth certificate, passport-size photographs, and Aadhaar card copy." },
+      { "question": "Is there an entrance exam?", "answer": "Yes, an entrance assessment is conducted to evaluate the student's academic aptitude and readiness for the program." },
+      { "question": "What are the school timings?", "answer": "School operates from Monday to Friday, 8:30 AM to 3:30 PM. Saturday sessions are held for extracurricular activities." },
+      { "question": "Does the school provide transportation?", "answer": "Yes, school bus services are available covering major routes in and around Murickassery and neighboring areas." }
+    ]
+  },
+  "studentLife": {
+    "title": "Student Life",
+    "subtitle": "Beyond academics — discover your passion",
+    "activities": [
+      { "title": "Clubs", "description": "Science Club, Math Club, Literary Club, Eco Club, and more — platforms for students to explore their interests.", "icon": "users" },
+      { "title": "Sports", "description": "Football, cricket, basketball, athletics, volleyball and more with professional coaching and inter-school competitions.", "icon": "trophy" },
+      { "title": "Arts", "description": "Music, dance, drama, painting, and creative arts programs nurturing artistic talents.", "icon": "palette" },
+      { "title": "NSS", "description": "National Service Scheme unit fostering social responsibility through community service and national integration.", "icon": "heart" },
+      { "title": "Scouts & Guides", "description": "Building character, leadership, and outdoor skills through scouting activities and camps.", "icon": "compass" },
+      { "title": "Community Programs", "description": "Outreach programs, environmental initiatives, and social awareness campaigns connecting students with society.", "icon": "globe" }
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We'd love to hear from you",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15722.0!2d76.75!3d9.95!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sMurickassery!5e0!3m2!1sen!2sin!4v1600000000000",
+    "socialMedia": {
+      "facebook": "https://facebook.com/smhssmurickassery",
+      "instagram": "https://instagram.com/smhssmurickassery",
+      "youtube": "https://youtube.com/@smhssmurickassery",
+      "twitter": "https://twitter.com/smhssmry"
+    }
+  },
+  "footer": {
+    "quickLinks": [
+      { "label": "About Us", "href": "#about" },
+      { "label": "Academics", "href": "#academics" },
+      { "label": "Admissions", "href": "#admissions" },
+      { "label": "Gallery", "href": "#gallery" },
+      { "label": "Contact", "href": "#contact" }
+    ],
+    "copyright": "© 2025 SMHSS Murickassery. All rights reserved."
+  }
+}

@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "[Faculty Name]", "designation": "Principal", "qualification": "M.Ed, M.A.", "department": "Administration", "image": "/images/faculty/placeholder.jpg" },
+  { "id": 2, "name": "[Faculty Name]", "designation": "Vice Principal", "qualification": "M.Sc, B.Ed", "department": "Science", "image": "/images/faculty/placeholder.jpg" },
+  { "id": 3, "name": "[Faculty Name]", "designation": "HOD - Science", "qualification": "M.Sc Physics, B.Ed", "department": "Physics", "image": "/images/faculty/placeholder.jpg" },
+  { "id": 4, "name": "[Faculty Name]", "designation": "HOD - Commerce", "qualification": "M.Com, B.Ed", "department": "Commerce", "image": "/images/faculty/placeholder.jpg" },
+  { "id": 5, "name": "[Faculty Name]", "designation": "Senior Teacher", "qualification": "M.A. English, B.Ed", "department": "English", "image": "/images/faculty/placeholder.jpg" },
+  { "id": 6, "name": "[Faculty Name]", "designation": "Senior Teacher", "qualification": "M.Sc Mathematics, B.Ed", "department": "Mathematics", "image": "/images/faculty/placeholder.jpg" },
+  { "id": 7, "name": "[Faculty Name]", "designation": "Lab Instructor", "qualification": "M.Sc Chemistry", "department": "Chemistry", "image": "/images/faculty/placeholder.jpg" },
+  { "id": 8, "name": "[Faculty Name]", "designation": "Physical Education Teacher", "qualification": "M.P.Ed", "department": "Physical Education", "image": "/images/faculty/placeholder.jpg" }
+]
